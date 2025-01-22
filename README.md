@@ -7,4 +7,4 @@ A simple Todo app that allows users to add and delete tasks. Built with **React*
 - Delete tasks
 - Modern UI styled with Bootstrap
 
-![Todo's application](react-todos/src/video/todo.gif)
+![Todo's application](src/video/todo.gif)
